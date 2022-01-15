@@ -1,3 +1,7 @@
 if game.PlaceId == 8071500616 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/JakeOperation/LaBartowscript/main/LaBartowscript'),true))()
 end
+
+if game.PlaceId == 5098929086 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/JakeOperation/BS2-Hub/main/TappingSimulator'),true))()
+end
