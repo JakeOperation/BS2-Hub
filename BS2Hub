@@ -5,3 +5,7 @@ end
 if game.PlaceId == 5098929086 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/JakeOperation/BS2-Hub/main/TappingSimulator'),true))()
 end
+
+if game.PlaceId == 54865335 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/JakeOperation/BS2-Hub/main/Ultimate%20Driving'),true))()
+end
